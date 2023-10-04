@@ -1,7 +1,7 @@
 package fr.diginamic.jeudelavie.entites;
 
 /** Représente une cellule du jeu de la vie
- * @author JulieBARENNE hello
+ * @author JulieBARENNE hello2
  *
  */
 public class Cellule {
